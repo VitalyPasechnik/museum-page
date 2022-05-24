@@ -5,4 +5,3 @@ Technologies: BEM and SCSS.
 DEMO link - https://vitalypasechnik.github.io/museum-page/
 
 Github Link - https://github.com/VitalyPasechnik/museum-page
-y
